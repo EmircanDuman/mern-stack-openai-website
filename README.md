@@ -1,2 +1,8 @@
 # mern-stack-openai-website
 A fully functioning AI-integrated social media website
+
+MongoDB, Express, ReactJS, Node.JS
+
+Uses OpenAI API and MongoDb so you'll have to enter your own keys to make it work. 
+
+after you configure your keys, "npm start" in server folder and "npm run dev" in the client folder
