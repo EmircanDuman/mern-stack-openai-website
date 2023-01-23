@@ -1,7 +1,7 @@
 # mern-stack-openai-website
 A fully functioning AI-integrated social media website
 
-MongoDB, Express, ReactJS, Node.JS
+MongoDB, Express, ReactJS, Node.JS, Cloudinary
 
 Uses OpenAI API and MongoDb so you'll have to enter your own keys to make it work. 
 
